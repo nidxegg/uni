@@ -1,2 +1,1 @@
-# uni
-ee
+# goit-markup-hw-01
